@@ -1,5 +1,7 @@
 # Skills to Test
 
+<a href="https://buymeacoffee.com/thenewrhythm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45"></a>
+
 Early, real Claude skills I'm building in the open — and actively looking for feedback on. These are working drafts: I use them in real consulting work, then hand them to you *before* they're polished, because the fastest way to make them better is to watch them meet businesses that aren't mine.
 
 The story behind each one is on the Substack: **[creatism.substack.com](https://creatism.substack.com)**.
@@ -28,6 +30,10 @@ That's it. Your files stay on your machine — the skill reads them where they s
 ## Feedback — the whole point
 
 These are here to be tested. Run one, point it at your own mess, and tell me what it found, what it got wrong, and what it couldn't see. Open an issue, or reply on the [Substack](https://creatism.substack.com).
+
+## Support
+
+These are free to use. If one saves you real time, you can [buy me a coffee](https://buymeacoffee.com/thenewrhythm) ☕ — it keeps the series going.
 
 ## License
 
