@@ -15,7 +15,7 @@ More arriving soon.
 ## How to use a skill
 
 - **Claude Code:** copy the skill's folder (e.g. `truffle/`) into your project's `.claude/skills/` directory — or into `~/.claude/skills/` to have it in every project. Start Claude Code and ask for it by name ("run the truffle on this folder"), or just describe the task.
-- **claude.ai:** zip the skill folder (`SKILL.md` at the top level of the zip) and upload it under Settings → Capabilities → Skills. Needs a paid plan with code execution enabled.
+- **claude.ai:** download [`truffle.skill`](./truffle.skill) and upload it under Settings → Capabilities → Skills (needs a paid plan with code execution enabled). Or zip the `truffle/` folder yourself.
 
 Your files stay on your machine — the skill reads them where they sit and doesn't upload anything.
 
