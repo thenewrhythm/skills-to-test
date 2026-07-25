@@ -16,7 +16,7 @@ More arriving soon.
 
 You'll need a **paid claude.ai plan** (Pro, Max, or Team) — skills run on code execution, which the free plan doesn't include.
 
-1. **Download the skill:** [⬇︎ Download `truffle.skill`](https://github.com/thenewrhythm/skills-to-test/raw/main/truffle.skill) — one file, just save it somewhere you'll find it.
+1. **Download the skill:** [⬇︎ Download `truffle.skill`](https://github.com/thenewrhythm/skills-to-test/releases/latest/download/truffle.skill) — one file, just save it somewhere you'll find it.
 2. In [claude.ai](https://claude.ai), open **Settings → Capabilities → Skills**.
 3. Click **Upload skill** and choose the `truffle.skill` file you just downloaded.
 4. Start a new chat, point Claude at a folder of your business's files, and say **"run the truffle on this."**
