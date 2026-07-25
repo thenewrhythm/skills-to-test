@@ -12,12 +12,18 @@ The story behind each one is on the Substack: **[creatism.substack.com](https://
 
 More arriving soon.
 
-## How to use a skill
+## Get it running (about 2 minutes, no coding)
 
-- **claude.ai:** download [`truffle.skill`](./truffle.skill) and upload it under Settings → Capabilities → Skills (needs a paid plan with code execution enabled).
-- **Claude Code:** unzip `truffle.skill` (it's a zip of the skill folder) and drop the resulting `truffle/` folder into your project's `.claude/skills/` directory — or into `~/.claude/skills/` to have it in every project. Then ask for it by name ("run the truffle on this folder"), or just describe the task.
+You'll need a **paid claude.ai plan** (Pro, Max, or Team) — skills run on code execution, which the free plan doesn't include.
 
-Your files stay on your machine — the skill reads them where they sit and doesn't upload anything.
+1. **Download the skill:** [⬇︎ Download `truffle.skill`](https://github.com/thenewrhythm/skills-to-test/raw/main/truffle.skill) — one file, just save it somewhere you'll find it.
+2. In [claude.ai](https://claude.ai), open **Settings → Capabilities → Skills**.
+3. Click **Upload skill** and choose the `truffle.skill` file you just downloaded.
+4. Start a new chat, point Claude at a folder of your business's files, and say **"run the truffle on this."**
+
+That's it. Your files stay on your machine — the skill reads them where they sit and never uploads them.
+
+<sub>Using Claude Code instead? `truffle.skill` is just a zip — unzip it and drop the `truffle/` folder into `~/.claude/skills/`.</sub>
 
 ## Feedback — the whole point
 
